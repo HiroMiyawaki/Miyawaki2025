@@ -1,3 +1,3 @@
 # Miyawaki2025
 
-The code used in this study will be deposited in this repository upon acceptance of the manuscript.
+The code used for paper in Miyawaki and Mizuseki 2025.
