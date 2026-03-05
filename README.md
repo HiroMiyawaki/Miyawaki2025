@@ -1,3 +1,1 @@
-# Miyawaki2025
-
-The code used for paper in Miyawaki and Mizuseki 2025.
+moved to https://github.com/HiroMiyawaki/Miyawaki2026_JNeurosci
